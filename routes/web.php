@@ -21,3 +21,4 @@ Route::get('/', function () {
 
 Route::resource('register', 'RegisterController');
 Route::resource('login', 'LoginController');
+Route::resource('contacto', 'ContactoController');

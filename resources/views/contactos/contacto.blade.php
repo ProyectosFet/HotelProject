@@ -9,30 +9,6 @@
     <link rel="stylesheet" href="css/estilos2.css">
     <script src="https://kit.fontawesome.com/5faa3200c2.js"></script>
     <!-- sitilo de iconos -->
-    <style>
-        nav {
-            width: 55px;
-            height: 150px;
-            position: fixed;
-        }
-
-        nav a {
-            width: 100%;
-            height: 50px;
-            color: #fff;
-            background: rgba(0, 0, 0, 0.5);
-            float: left;
-            font-size: 50px;
-            text-align: center;
-            line-height: 50px;
-            border: 2px solid #000;
-        }
-
-        nav a:hover {
-            background: #fff;
-            color: #000;
-        }
-    </style>
 </head>
 
 <body>
